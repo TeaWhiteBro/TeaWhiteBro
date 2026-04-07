@@ -125,20 +125,17 @@ My research sits at the intersection of **computer graphics** and **generative m
 
 ### 📄 Selected Publications
 
-**Grid-A-Character** &nbsp;![Under Review](https://img.shields.io/badge/Under%20Review-gray?style=flat-square)  
-Grid-based framework for controllable character generation  
+![Under Review](https://img.shields.io/badge/Under%20Review-gray?style=flat-square) &nbsp;**Grid-A-Character**  
 \[pdf\] &nbsp;·&nbsp; \[project page\] &nbsp;·&nbsp; \[code\]
 
 ---
 
-**HM-Avatar: Towards Realistic Loose Garment Modeling** &nbsp;![ICASSP 2026](https://img.shields.io/badge/ICASSP%202026-2ea043?style=flat-square)  
-Animatable avatars with hierarchical MLP for realistic loose clothing simulation  
+![ICASSP 2026](https://img.shields.io/badge/ICASSP%202026-2ea043?style=flat-square) &nbsp;**HM-Avatar: Towards Realistic Loose Garment Modeling**  
 \[pdf\] &nbsp;·&nbsp; \[project page\] &nbsp;·&nbsp; \[code\]
 
 ---
 
-**TextureAvatar: Texture-Enhanced 3D Gaussian Splatting** &nbsp;![Under Review](https://img.shields.io/badge/Under%20Review-gray?style=flat-square)  
-High-fidelity texture modeling for human avatars via 3D Gaussian Splatting  
+![Under Review](https://img.shields.io/badge/Under%20Review-gray?style=flat-square) &nbsp;**TextureAvatar: Texture-Enhanced 3D Gaussian Splatting for Human Avatars**  
 \[pdf\] &nbsp;·&nbsp; \[project page\] &nbsp;·&nbsp; \[code\]
 
 ---
