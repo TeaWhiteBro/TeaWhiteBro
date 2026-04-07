@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:24243e&height=100&section=header" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=90&lines=Zhiyang+Deng+%F0%9F%91%8B" alt="Zhiyang Deng" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=3000&color=818CF8&center=true&vCenter=true&width=700&height=40&lines=GenAI+Researcher+%E2%80%A2+NUS+%E2%80%A2+Riot+Games" alt="subtitle" />
@@ -46,16 +50,45 @@ My research sits at the intersection of **computer graphics** and **generative m
 
 ---
 
-### 💼 Experience & Education
+### 💼 Experience
 
-```
-🎮  GenAI Research Intern    Riot Games                          Jan 2026 – Present
-🔬  Research Intern          The Hong Kong Polytechnic Univ.     Oct 2024 – Apr 2025
-🔬  Research Assistant       Nanjing University (Suzhou)         Nov 2024 – Dec 2025
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🎓  M.Sc. Computing          National University of Singapore    Aug 2025 – Jan 2027
-🎓  B.Sc. Math & App. Math   Hunan University                    Sep 2021 – Jun 2025
-```
+<table>
+  <tr>
+    <td>🎮</td>
+    <td><b>Generative AI Research Intern</b></td>
+    <td><b>Riot Games</b></td>
+    <td><i>Jan 2026 – Present</i></td>
+  </tr>
+  <tr>
+    <td>🔬</td>
+    <td><b>Research Intern</b></td>
+    <td><b>The Hong Kong Polytechnic University</b></td>
+    <td><i>Oct 2024 – Apr 2025</i></td>
+  </tr>
+  <tr>
+    <td>🔬</td>
+    <td><b>Research Assistant</b></td>
+    <td><b>Nanjing University (Suzhou)</b></td>
+    <td><i>Nov 2024 – Dec 2025</i></td>
+  </tr>
+</table>
+
+### 🎓 Education
+
+<table>
+  <tr>
+    <td>🏫</td>
+    <td><b>M.Sc. Computing</b></td>
+    <td><b>National University of Singapore</b></td>
+    <td><i>Aug 2025 – Jan 2027</i></td>
+  </tr>
+  <tr>
+    <td>🏫</td>
+    <td><b>B.Sc. Mathematics & Applied Mathematics</b></td>
+    <td><b>Hunan University</b></td>
+    <td><i>Sep 2021 – Jun 2025</i></td>
+  </tr>
+</table>
 
 ---
 
@@ -63,21 +96,28 @@ My research sits at the intersection of **computer graphics** and **generative m
 
 <div align="center">
 
-```
-         🧍 3D Digital Humans                    🎨 Generative Models
-   ┌─────────────────────────────┐      ┌─────────────────────────────┐
-   │  · 3D Human Reconstruction  │      │  · Image Generation         │
-   │  · Avatar Generation        │      │  · Texture Synthesis        │
-   │  · Loose Garment Modeling   │      │  · 3D Gaussian Splatting    │
-   └─────────────────────────────┘      └─────────────────────────────┘
-
-                    🖥️ Computer Graphics
-              ┌──────────────────────────────┐
-              │  · Neural Rendering          │
-              │  · Implicit Representations  │
-              │  · Geometry Processing       │
-              └──────────────────────────────┘
-```
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🧍 3D Digital Humans</h3>
+      <img src="https://img.shields.io/badge/3D%20Reconstruction-6e40c9?style=flat-square" />
+      <img src="https://img.shields.io/badge/Avatar%20Generation-6e40c9?style=flat-square" />
+      <img src="https://img.shields.io/badge/Garment%20Modeling-6e40c9?style=flat-square" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🎨 Generative Models</h3>
+      <img src="https://img.shields.io/badge/Image%20Generation-5046e4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Texture%20Synthesis-5046e4?style=flat-square" />
+      <img src="https://img.shields.io/badge/3D%20Gaussian%20Splatting-5046e4?style=flat-square" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🖥️ Computer Graphics</h3>
+      <img src="https://img.shields.io/badge/Neural%20Rendering-3b82f6?style=flat-square" />
+      <img src="https://img.shields.io/badge/Implicit%20Representations-3b82f6?style=flat-square" />
+      <img src="https://img.shields.io/badge/Geometry%20Processing-3b82f6?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
