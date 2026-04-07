@@ -125,20 +125,21 @@ My research sits at the intersection of **computer graphics** and **generative m
 
 ### 📄 Selected Publications
 
-<table>
-  <tr>
-    <td><b>🔵 Under Review</b></td>
-    <td><b>Grid-A-Character</b> — Grid-based framework for controllable character generation</td>
-  </tr>
-  <tr>
-    <td><b>🟢 ICASSP 2026</b></td>
-    <td><b>HM-Avatar: Towards Realistic Loose Garment Modeling</b> — Animatable avatars with hierarchical MLP for loose clothing</td>
-  </tr>
-  <tr>
-    <td><b>🔵 Under Review</b></td>
-    <td><b>TextureAvatar: Texture-Enhanced 3D Gaussian Splatting</b> — High-fidelity texture modeling for human avatars via 3DGS</td>
-  </tr>
-</table>
+**Grid-A-Character** &nbsp;![Under Review](https://img.shields.io/badge/Under%20Review-gray?style=flat-square)  
+Grid-based framework for controllable character generation  
+\[pdf\] &nbsp;·&nbsp; \[project page\] &nbsp;·&nbsp; \[code\]
+
+---
+
+**HM-Avatar: Towards Realistic Loose Garment Modeling** &nbsp;![ICASSP 2026](https://img.shields.io/badge/ICASSP%202026-2ea043?style=flat-square)  
+Animatable avatars with hierarchical MLP for realistic loose clothing simulation  
+\[pdf\] &nbsp;·&nbsp; \[project page\] &nbsp;·&nbsp; \[code\]
+
+---
+
+**TextureAvatar: Texture-Enhanced 3D Gaussian Splatting** &nbsp;![Under Review](https://img.shields.io/badge/Under%20Review-gray?style=flat-square)  
+High-fidelity texture modeling for human avatars via 3D Gaussian Splatting  
+\[pdf\] &nbsp;·&nbsp; \[project page\] &nbsp;·&nbsp; \[code\]
 
 ---
 
