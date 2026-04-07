@@ -102,14 +102,10 @@ My research sits at the intersection of **computer graphics** and **generative m
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=TeaWhiteBro&theme=tokyonight&hide_border=true&background=0D1117&stroke=6e40c9&ring=a0a0ff&fire=FF6B6B&currStreakLabel=a0a0ff" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TeaWhiteBro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeaWhiteBro&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=6e40c9&point=a78bfa&area=true&hide_border=true" />
 </div>
 
 ---
