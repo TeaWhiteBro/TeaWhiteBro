@@ -1,92 +1,135 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zhiyang%20Deng&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=GenAI%20Researcher%20%7C%20NUS%20%7C%20Riot%20Games&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Zhiyang%20Deng&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=GenAI%20Researcher%20%E2%80%A2%20NUS%20%E2%80%A2%20Riot%20Games&descSize=20&descAlignY=62&descColor=a0a0ff" />
 </div>
 
+<br/>
+
 <div align="center">
-  <a href="https://teawhite.cn"><img src="https://img.shields.io/badge/Website-teawhite.cn-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:hnu_dzy@163.com"><img src="https://img.shields.io/badge/Email-hnu__dzy@163.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Singapore-green?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=TeaWhiteBro&style=flat-square&color=blueviolet" />
+  <a href="https://teawhite.cn">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20teawhite.cn-Personal%20Site-6e40c9?style=for-the-badge&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/teawhite">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20teawhite-HuggingFace-FF9D00?style=for-the-badge&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/zhiyang-deng-2a0a2a376/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zhiyang%20Deng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="mailto:hnu_dzy@163.com">
+    <img src="https://img.shields.io/badge/Email-hnu__dzy@163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TeaWhiteBro&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍-Singapore-2ea043?style=for-the-badge&labelColor=0d1117" />
+</div>
+
+<br/>
 
 ---
 
-## 👤 About Me
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=TeaWhiteBro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a0a0ff&icon_color=6e40c9&text_color=c9d1d9" />
 
-I'm a **Master's student in Computing at NUS** and a **Generative AI Research Intern at Riot Games**.  
-My research lies at the intersection of **computer graphics** and **generative models**, with a particular focus on **3D digital human reconstruction and generation**.
+### 👤 About Me
 
-```text
-🎓  M.Sc. Computing        @ National University of Singapore   (2025 – 2027)
-🎮  GenAI Research Intern  @ Riot Games                         (2026 – Present)
-🔬  Research Intern        @ The Hong Kong Polytechnic Univ.    (2024 – 2025)
-🔬  Research Assistant     @ Nanjing University (Suzhou)        (2024 – 2025)
-🎓  B.Sc. Math & App. Math @ Hunan University                   (2021 – 2025)
+I'm a **Master's student in Computing** at the  
+National University of Singapore, and a  
+**Generative AI Research Intern at Riot Games**.
+
+My research sits at the intersection of  
+**computer graphics** and **generative models**,  
+with a focus on **3D digital human reconstruction  
+and generation**.
+
+<br/>
+
+📬 &nbsp;Open to research collaborations & discussions  
+🌏 &nbsp;Based in Singapore
+
+<br clear="right"/>
+
+---
+
+### 💼 Experience & Education
+
+```
+🎮  GenAI Research Intern    Riot Games                          Jan 2026 – Present
+🔬  Research Intern          The Hong Kong Polytechnic Univ.     Oct 2024 – Apr 2025
+🔬  Research Assistant       Nanjing University (Suzhou)         Nov 2024 – Dec 2025
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎓  M.Sc. Computing          National University of Singapore    Aug 2025 – Jan 2027
+🎓  B.Sc. Math & App. Math   Hunan University                    Sep 2021 – Jun 2025
 ```
 
 ---
 
-## 🔬 Research Interests
+### 🔬 Research Interests
 
 <div align="center">
 
-| Area | Topics |
-|------|--------|
-| 🧍 Digital Humans | 3D Reconstruction · Avatar Generation · Loose Garment Modeling |
-| 🎨 Generative Models | Image Generation · Texture Synthesis · 3D Gaussian Splatting |
-| 🖥️ Computer Graphics | Neural Rendering · Implicit Representations · Geometry Processing |
+```
+         🧍 3D Digital Humans                    🎨 Generative Models
+   ┌─────────────────────────────┐      ┌─────────────────────────────┐
+   │  · 3D Human Reconstruction  │      │  · Image Generation         │
+   │  · Avatar Generation        │      │  · Texture Synthesis        │
+   │  · Loose Garment Modeling   │      │  · 3D Gaussian Splatting    │
+   └─────────────────────────────┘      └─────────────────────────────┘
+
+                    🖥️ Computer Graphics
+              ┌──────────────────────────────┐
+              │  · Neural Rendering          │
+              │  · Implicit Representations  │
+              │  · Geometry Processing       │
+              └──────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 📄 Selected Publications
+### 📄 Selected Publications
 
-- **Grid-A-Character** — *Under Review*  
-  Grid-based framework for character generation
-
-- **HM-Avatar: Towards Realistic Loose Garment Modeling** — *ICASSP 2026*  
-  Hierarchical MLP approach for animatable avatars with loose clothing
-
-- **TextureAvatar: Texture-Enhanced 3D Gaussian Splatting** — *Under Review*  
-  High-fidelity texture modeling for human avatars via 3DGS
+<table>
+  <tr>
+    <td><b>🔵 Under Review</b></td>
+    <td><b>Grid-A-Character</b> — Grid-based framework for controllable character generation</td>
+  </tr>
+  <tr>
+    <td><b>🟢 ICASSP 2026</b></td>
+    <td><b>HM-Avatar: Towards Realistic Loose Garment Modeling</b> — Animatable avatars with hierarchical MLP for loose clothing</td>
+  </tr>
+  <tr>
+    <td><b>🔵 Under Review</b></td>
+    <td><b>TextureAvatar: Texture-Enhanced 3D Gaussian Splatting</b> — High-fidelity texture modeling for human avatars via 3DGS</td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+### 📊 GitHub Stats
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+  <img src="https://github-readme-streak-stats.demolab.com?user=TeaWhiteBro&theme=tokyonight&hide_border=true&background=0D1117&stroke=6e40c9&ring=a0a0ff&fire=FF6B6B&currStreakLabel=a0a0ff" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 🏆 Honors
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TeaWhiteBro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaWhiteBro&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TeaWhiteBro&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 Honors
-
-- 🥇 Individual Scholarship, Hunan University — 2022, 2023, 2024
+| Year | Award |
+|------|-------|
+| 🥇 2024 | Individual Scholarship — Hunan University |
+| 🥇 2023 | Individual Scholarship — Hunan University |
+| 🥇 2022 | Individual Scholarship — Hunan University |
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&reversal=true" />
 </div>
