@@ -1,11 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=80&lines=Zhiyang+Deng+%F0%9F%91%8B" alt="Zhiyang Deng" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=90&lines=Zhiyang+Deng+%F0%9F%91%8B" alt="Zhiyang Deng" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=3000&color=818CF8&center=true&vCenter=true&width=600&height=40&lines=GenAI+Researcher+%E2%80%A2+NUS+%E2%80%A2+Riot+Games" alt="subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=3000&color=818CF8&center=true&vCenter=true&width=700&height=40&lines=GenAI+Researcher+%E2%80%A2+NUS+%E2%80%A2+Riot+Games" alt="subtitle" />
 </div>
 
 <br/>
@@ -40,25 +36,13 @@
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=TeaWhiteBro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a0a0ff&icon_color=6e40c9&text_color=c9d1d9" />
-
 ### 👤 About Me
 
-I'm a **Master's student in Computing** at the  
-National University of Singapore, and a  
-**Generative AI Research Intern at Riot Games**.
+I'm a **Master's student in Computing** at the National University of Singapore, and a **Generative AI Research Intern at Riot Games**.
 
-My research sits at the intersection of  
-**computer graphics** and **generative models**,  
-with a focus on **3D digital human reconstruction  
-and generation**.
+My research sits at the intersection of **computer graphics** and **generative models**, with a focus on **3D digital human reconstruction and generation**.
 
-<br/>
-
-📬 &nbsp;Open to research collaborations & discussions  
-🌏 &nbsp;Based in Singapore
-
-<br clear="right"/>
+📬 &nbsp;Open to research collaborations & discussions &nbsp;|&nbsp; 🌏 &nbsp;Based in Singapore
 
 ---
 
@@ -124,6 +108,10 @@ and generation**.
   <img src="https://github-readme-streak-stats.demolab.com?user=TeaWhiteBro&theme=tokyonight&hide_border=true&background=0D1117&stroke=6e40c9&ring=a0a0ff&fire=FF6B6B&currStreakLabel=a0a0ff" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TeaWhiteBro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+</div>
+
 ---
 
 ### 🏆 Honors
@@ -137,5 +125,5 @@ and generation**.
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63&height=100&section=footer" />
 </div>
