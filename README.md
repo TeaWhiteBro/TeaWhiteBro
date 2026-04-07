@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Zhiyang%20Deng&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=GenAI%20Researcher%20%E2%80%A2%20NUS%20%E2%80%A2%20Riot%20Games&descSize=20&descAlignY=62&descColor=a0a0ff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=80&lines=Zhiyang+Deng+%F0%9F%91%8B" alt="Zhiyang Deng" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=3000&color=818CF8&center=true&vCenter=true&width=600&height=40&lines=GenAI+Researcher+%E2%80%A2+NUS+%E2%80%A2+Riot+Games" alt="subtitle" />
 </div>
 
 <br/>
